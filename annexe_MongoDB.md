@@ -42,6 +42,9 @@ Aller dans "Collection" pour créer une Base de données en cliquant sur "Add My
 
 ![MLab installation](https://i.ibb.co/ynGjBn8/Screenshot-2021-02-18-Data-Atlas-Mongo-DB-Atlas-1.png)
 
+Security ->network access -> add my ip adress 
+![sec](https://user-images.githubusercontent.com/73080397/194295516-aa8bb18e-97a2-4e11-850d-49200eea9992.png)
+
 La base de données et la Collection sont créées. Reste plus qu'à les remplir grâce à NiFi :
 
 ![MLab installation](https://i.ibb.co/1Q78Gwp/Screenshot-2021-02-18-Data-Atlas-Mongo-DB-Atlas-2.png)
